@@ -8,6 +8,7 @@
 |---|---|
 | `chinese-writing-rules.md` | 约束中文技术文档中的常见非标准用词、规范性语气和否定转折句式，统一更自然、更正式的表达方式 |
 | `word-conversion-rules.md` | 约束 Markdown 方案文档在后续转 Word 交付时的写法，减少排版返工 |
+| `tools-catalog.md` | 本机已安装 CLI 工具目录（路径、用途），避免重复查询 |
 
 使用方式如下：
 
